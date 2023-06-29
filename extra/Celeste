@@ -1,0 +1,6 @@
+#!/bin/sh
+# Simple Celeste lanuch script for linux
+
+cd "`dirname "$0"`" # Make sure to be in the script's directory
+
+./Celeste.bin.x86_64 $@ # Launch directly since 32 bit its not supported
