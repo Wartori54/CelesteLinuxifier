@@ -11,5 +11,5 @@ This repo contains a little script set up a celeste windows install so that it r
 This script will be most useful for people stuck on the epic games version of Celeste, since thats the only one which doesn't provide a linux version.
 
 # License
-See LICENSE.md
+See LICENSE file.
 
