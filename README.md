@@ -2,6 +2,21 @@
 
 This repo contains a little script set up a celeste windows install so that it runs natively (with mono) instead of having to use wine or a derivative
 
+# Usage
+
+Ensure you have all dependencies:
+  - shell (duh)
+  - wget
+  - unzip
+  - gnu coreutils
+    
+Those are very common tools, so you can safely assume that they're already installed.
+
+If the above seems like nonesense, just go ahead and give it a go. 
+
+## Actual Usage:
+Download the entire repo as a zip, and run the shell script. It'll prompt you for the path of your target install, provide it and enjoy. :)
+
 # Usefulness
 
 - Modding: Modding a windows install under linux doesn't work, but if you make it a linux install, it will.
