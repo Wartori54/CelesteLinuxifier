@@ -14,7 +14,7 @@ echo Downloading files...
 wget https://github.com/flibitijibibo/MonoKickstart/archive/refs/heads/master.zip
 unzip ./master.zip -d .
 
-# Remove innecessary files
+# Remove unnecessary files
 echo Cleaning downloaded files...
 rm -f MonoKickstart-master/kick.bin.aarch64*
 rm -f MonoKickstart-master/kick.bin.osx*
